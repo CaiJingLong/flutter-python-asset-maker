@@ -1,0 +1,3 @@
+image: images
+outputfilename: 'pub.yaml'
+dartfilename: 'my_assets.dart'
