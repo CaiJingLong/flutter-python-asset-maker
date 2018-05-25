@@ -26,3 +26,8 @@ The generated files do not contain annotations of the source YML files, and the 
 
 ## 说明
 默认生成的文件不带注释,且会按照字母顺序排序,所以我这里不会覆盖源配置文件,如果你不在乎顺序,也不在乎原来的配置文件中的注释,也可以自己修改配置文件
+
+##
+并不保证windows可用
+
+我这里是mac
