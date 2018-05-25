@@ -63,7 +63,7 @@ class MyAssets{
 }
 """ % static
 
-with(open("./lib/const/%s" % dartname, mode='w')) as f:
+with(open("./lib/%s" % dartname, mode='w')) as f:
     f.write(dart)
 
 print("build dart file %s,have assert" % dartname)
